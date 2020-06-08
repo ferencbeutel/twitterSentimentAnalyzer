@@ -1,6 +1,6 @@
 # SentimentAnalyzer
 
-Plots the sentiment of a hashtag in real time using the twitter api, nltk and mathplotlib
+Plots the sentiment of a hashtag in real time using the twitter api, nltk and matplotlib
 
 ## Requirements
 - configure a twitter app & generate consumer & access secrets
